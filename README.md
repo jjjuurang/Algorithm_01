@@ -9,7 +9,7 @@
 #### 3. Test Accuracy
 
 #### 4. Images and corresponding probability that predicted Right
-![image](https://user-images.githubusercontent.com/74705447/121782646-96a0c500-cbe5-11eb-98df-8ad5129e4c94.png)
+
 #### 5. Images and corresponding probability that predicted Wrong
 
 ## 2
