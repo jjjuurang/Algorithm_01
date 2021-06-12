@@ -27,7 +27,14 @@
 ![image](https://user-images.githubusercontent.com/74705447/121783055-afaa7580-cbe7-11eb-87d0-f710395439e4.png)
 ## 3
 #### 1. Model
+![image](https://user-images.githubusercontent.com/74705447/121783883-32353400-cbec-11eb-887f-891d63e62c17.png)
+![image](https://user-images.githubusercontent.com/74705447/121783888-39f4d880-cbec-11eb-80a1-59a65ac01a29.png)
+![image](https://user-images.githubusercontent.com/74705447/121783892-41b47d00-cbec-11eb-8b45-ab7ffc766617.png)
 #### 2. Training with Training loss
+![image](https://user-images.githubusercontent.com/74705447/121783895-48db8b00-cbec-11eb-931a-ec0bc995abad.png)
 #### 3. Test Accuracy
+![image](https://user-images.githubusercontent.com/74705447/121783898-50029900-cbec-11eb-8ea2-3521d54e3b52.png)
 #### 4. Images and corresponding probability that predicted Right
+![image](https://user-images.githubusercontent.com/74705447/121783907-585ad400-cbec-11eb-8645-2a19eee14954.png)
 #### 5. Images and corresponding probability that predicted Wrong
+![image](https://user-images.githubusercontent.com/74705447/121783909-5db81e80-cbec-11eb-922e-4c13b196b71e.png)
